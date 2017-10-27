@@ -8,6 +8,7 @@ public class Demo1 {
 		System.out.println("Hello Satya");
 		
 		System.out.println("Hello Satyajit Samal Local");
+		System.out.println("Hello Satya");
 
 	}
 
